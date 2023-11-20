@@ -1,0 +1,4 @@
+project: https://platform.activestate.com/ActiveState/vscode-extension?commitID=5925aee6-46fd-4d84-be34-fab79b20f91c
+scripts:
+  - name: build
+    value: vsce package
